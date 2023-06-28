@@ -47,8 +47,9 @@ app.listen(10005, (err) => {
 });
 
 
-// const PORT = 10005;
+// const PORT = 10005; - moze i vaka da se napishe 
 // app.listen(PORT, (err) => {
 //   if (err) console.log(err);
 //   console.log("Server has started on port " + PORT);
 // });
+
